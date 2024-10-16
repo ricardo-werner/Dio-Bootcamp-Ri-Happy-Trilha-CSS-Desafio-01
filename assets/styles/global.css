@@ -9,13 +9,14 @@
 :root {
   --font-family: "Raleway", sans-serif;
 
-  --text-h1-bold: 40px bold var(--font-family);
-  --text-h2-bold: 32px bold var(--font-family);
-  --text-regular: 20px var(--font-family);
-  --text-small: 16px var(--font-family);
+  --text-h1: 700 40px var(--font-family);
+  --text-h2: 700 32px var(--font-family);
+  --text-regular:400 20px var(--font-family);
+  --text-mediun: 400 16px var(--font-family);
+  --text-bold: 700 16px var(--font-family);
 
-  --color-gradient-title: linear-gradient(180deg, #33a8db 0%, #1472b7 100%);
-  --color-gradient-button: linear-gradient(180deg, #3ba1cd 0%, #157287 100%);
+  --color-gradient-title: linear-gradient(0deg, #33a8db 0%, #1472b7 100%);
+  --color-gradient-button: linear-gradient(0deg, #3ba1cd 0%, #157287 100%);
   --color-h2: #33a8db;
   --color-regular: #31a8dd;
   --color-background-button: #252525;
@@ -27,7 +28,6 @@
 }
 
 body {
-  font: var(--text-regular);
   color: var(--color-text-main);
   background-color: var(--color-background);
 }
