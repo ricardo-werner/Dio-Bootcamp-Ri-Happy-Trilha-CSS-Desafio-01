@@ -1,5 +1,6 @@
 #course-content{
     border-bottom: 1px solid var(--color-h2);
+    padding-bottom: 60px;
 }
 
 #course-content h2 {
