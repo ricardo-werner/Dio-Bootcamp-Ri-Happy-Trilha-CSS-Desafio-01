@@ -11,8 +11,8 @@
 
   --text-h1: 700 40px var(--font-family);
   --text-h2: 700 32px var(--font-family);
-  --text-regular:400 20px var(--font-family);
-  --text-mediun: 400 16px var(--font-family);
+  --text-mediun:400 20px var(--font-family);
+  --text-regular: 400 16px var(--font-family);
   --text-bold: 700 16px var(--font-family);
 
   --color-gradient-title: linear-gradient(0deg, #33a8db 0%, #1472b7 100%);
@@ -37,7 +37,6 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 50px;
   gap: 24px;
   border-bottom: 1px solid var(--color-h2);
 }
