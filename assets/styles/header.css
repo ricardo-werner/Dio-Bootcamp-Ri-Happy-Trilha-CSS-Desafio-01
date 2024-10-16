@@ -1,6 +1,57 @@
+.banner {
+  position: relative; /* Necessário para que o ::before seja posicionado corretamente */
+  border-bottom: 1px solid var(--color-h2);
+}
+
+.banner::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("../images/banner.png");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.4; /* Ajuste a opacidade conforme necessário */
+  z-index: -1; /* Garante que o background fique atrás do conteúdo */
+}
+
 .banner .banner-content {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 16px;
+}
+
+.logo {
+  margin: 16px 0;
+}
+
+.banner .banner-content h1 {
+  font: var(--text-h1);
+  background: var(--color-gradient-title);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.banner .banner-content p {
+  width: 510px;
+  height: auto;
+  font: var(--text-regular);
+  color: var(--color-text-main);
+}
+
+.banner .banner-content button {
+  width: 326px;
+  height: 57px;
+  color: var(--color-text-button);
+  background: var(--color-background);
+  border-color: var(--color-text-button);
+  margin-bottom: 50px;
+  font: var(--text-bold);
+  letter-spacing: 0.21rem;
+  cursor: pointer;
 }
