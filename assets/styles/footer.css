@@ -1,0 +1,15 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  padding: 59px 0 24px 0;
+}
+
+footer p {
+  width: 259px;
+  height: 19px;
+  font: var(--text-regular);
+  color: var(--color-text-main);
+}
