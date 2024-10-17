@@ -14,7 +14,7 @@ Foi proposto estilizar toda uma landing page (HTML já estava disponível) e imp
 
 ### ✅ Status do Projeto
 
-**Concluído**
+**:ok_hand: Concluído**
 
 ### 🎥 Demonstração
 
