@@ -25,7 +25,7 @@ Foi proposto estilizar toda uma landing page (HTML já estava disponível) e imp
 
 #### Telas do projeto
 <p align="center">
-  <img width="480" src="./assets/to_readme/codigos.PNG" alt="imagem do VSCode com parte do código da Landing Page CSS Developer">
+  <img width="550" src="./assets/to_readme/codigos.PNG" alt="imagem do VSCode com parte do código da Landing Page CSS Developer">
 </p>
 
 
