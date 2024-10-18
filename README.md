@@ -18,6 +18,10 @@ Foi proposto estilizar toda uma landing page (HTML já estava disponível) e imp
 
 ### 🎥 Demonstração
 
+<p align="center">
+  <img width="480" src="./assets/to_readme/css_developer.gif" alt="gif com a apresentação da Landing Page CSS Developer">
+</p>
+
 #### Tela inicial
 <p align="center">
   <img width="480" src="./assets/to_readme/landing_page_final.png" alt="imagem da pagina final da Landing Page CSS Developer">
