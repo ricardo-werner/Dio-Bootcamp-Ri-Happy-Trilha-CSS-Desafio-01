@@ -3,13 +3,13 @@ footer {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 24px;
-  padding: 59px 0 24px 0;
+  gap: 1.5rem;
+  padding: 3.7rem 0 1.5rem 0;
 }
 
 footer p {
-  width: 259px;
-  height: 19px;
+  width: 16.2rem;
+  height: 1.2rem;
   font: var(--text-regular);
   color: var(--color-text-main);
 }

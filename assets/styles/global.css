@@ -9,11 +9,11 @@
 :root {
   --font-family: "Raleway", sans-serif;
 
-  --text-h1: 700 40px var(--font-family);
-  --text-h2: 700 32px var(--font-family);
-  --text-mediun:400 20px var(--font-family);
-  --text-regular: 400 16px var(--font-family);
-  --text-bold: 700 16px var(--font-family);
+  --text-h1: 700 2.5rem var(--font-family);
+  --text-h2: 700 2rem var(--font-family);
+  --text-mediun:400 1.25rem var(--font-family);
+  --text-regular: 400 1rem var(--font-family);
+  --text-bold: 700 1rem var(--font-family);
 
   --color-gradient-title: linear-gradient(0deg, #33a8db 0%, #1472b7 100%);
   --color-gradient-button: linear-gradient(0deg, #3ba1cd 0%, #157287 100%);
@@ -24,7 +24,6 @@
 
   --color-text-button: #33a8dd;
   --color-text-main: #ffffff;
-  --color-text-footer: #e5e044;
 }
 
 body {
@@ -37,6 +36,6 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 24px;
+  gap: 1.5rem;
   border-bottom: 1px solid var(--color-h2);
 }

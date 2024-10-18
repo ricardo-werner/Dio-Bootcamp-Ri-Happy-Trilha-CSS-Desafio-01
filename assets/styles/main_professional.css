@@ -1,19 +1,19 @@
 #professional-challenges h2 {
-  width: 746px;
-  height: 76px;
+  width: 46.6rem;
+  height: 4.75rem;
   font: var(--text-h2);
   color: var(--color-h2);
   letter-spacing: 0.19rem;
-  margin-top: 60px;
+  margin-top: 3.75rem;
   text-align: center;
   text-transform: uppercase;
 }
 
 #professional-challenges p {
-  width: 792px;
-  height: 76px;
+  width: 49.5rem;
+  height: 4.75rem;
   font: var(--text-regular);
   color: var(--color-text-main);
-  margin: 60px 0;
+  margin: 3.75rem 0;
   text-align: center;
 }

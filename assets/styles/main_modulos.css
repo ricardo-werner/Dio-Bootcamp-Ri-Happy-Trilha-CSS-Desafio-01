@@ -1,19 +1,19 @@
 #course-content{
     border-bottom: 1px solid var(--color-h2);
-    padding-bottom: 60px;
+    padding-bottom: 3.75rem;
 }
 
 #course-content h2 {
   font: var(--text-h2);
   color: var(--color-h2);
   letter-spacing: 0.19rem;
-  margin-top: 70px;
+  margin-top: 4.4rem;
   text-transform: uppercase;
 }
 
 #course-content p {
-  width: 792px;
-  height: 40px;
+  width: 49.5rem;
+  height: 2.5rem;
   font: var(--text-regular);
   color: var(--color-text-main);
   text-align: center;
@@ -26,7 +26,7 @@
   align-content: center;
   justify-content: center;
   align-items: center;
-  gap: 24px;
+  gap: 1.5rem;
 }
 
 .module {
@@ -37,10 +37,10 @@
   color: var(--color-text-main);
   background-color: var(--color-background-button);
   border: 1px solid var(--color-h2);
-  border-radius: 57px;
+  border-radius: 3.6rem;
   box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.4);
-  width: 535px;
-  height: 51px;
+  width: 33.4rem;
+  height: 3.2rem;
 }
 
 .module span {
@@ -51,5 +51,5 @@
 .module span::after {
   content: " "; /* Adiciona um espaço */
   display: inline-block; /* Garante que o espaço seja visível */
-  width: 5px; /* Controla o tamanho do espaço */
+  width: 0.3rem; /* Controla o tamanho do espaço */
 }
