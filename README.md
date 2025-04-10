@@ -19,17 +19,17 @@ Foi proposto estilizar toda uma landing page (HTML já estava disponível) e imp
 ### 🎥 Demonstração
 
 <p align="center">
-  <img width="480" src="./assets/to_readme/css_developer.gif" alt="gif com a apresentação da Landing Page CSS Developer">
+  <img width="480" src="./src/assets/to_readme/css_developer.gif" alt="gif com a apresentação da Landing Page CSS Developer">
 </p>
 
 #### Tela inicial
 <p align="center">
-  <img width="480" src="./assets/to_readme/landing_page_final.png" alt="imagem da pagina final da Landing Page CSS Developer">
+  <img width="480" src="./src/assets/to_readme/landing_page_final.png" alt="imagem da pagina final da Landing Page CSS Developer">
 </p>
 
 #### Telas do projeto
 <p align="center">
-  <img width="550" src="./assets/to_readme/codigos.PNG" alt="imagem do VSCode com parte do código da Landing Page CSS Developer">
+  <img width="550" src="./src/assets/to_readme/codigos.PNG" alt="imagem do VSCode com parte do código da Landing Page CSS Developer">
 </p>
 
 
@@ -88,17 +88,17 @@ Desenvolver este projeto foi mais um passo no meu desenvolvimento na arte da pro
 3. Abra o projeto no Visual Studio Code e ative o Go Live:
     
    <p align="center">
-     <img width="280" src="./assets/to_readme/GoLive.jpg" alt="imagem Ativando o Go Live">
+     <img width="280" src="./src/assets/to_readme/GoLive.jpg" alt="imagem Ativando o Go Live">
    </p>
 
    <p align="center">
-     <img width="280" src="./assets/to_readme/GoLiveOn.jpg" alt="imagem do Go Live ativado">
+     <img width="280" src="./src/assets/to_readme/GoLiveOn.jpg" alt="imagem do Go Live ativado">
    </p>
 
 4. Visualize o resultado na página web:
 
    <p align="center">
-     <img width="480" src="./assets/to_readme/resultado_na_web.png" alt="imagem do Resultado na Web">
+     <img width="480" src="./src/assets/to_readme/resultado_na_web.png" alt="imagem do Resultado na Web">
    </p>
 
 
